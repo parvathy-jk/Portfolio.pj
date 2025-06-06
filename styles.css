@@ -75,6 +75,7 @@ section a{
 }
 
 section a:hover{
+    font-weight: bold;
     text-decoration: underline;
     color:#117d89;
 }
