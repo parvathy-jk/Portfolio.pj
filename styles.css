@@ -38,7 +38,6 @@ nav ul li a {
 
 nav ul li a:hover{
     font-weight: bold;
-    text-decoration: underline;
     color:#117d89;
 }
 
@@ -76,7 +75,6 @@ section a{
 
 section a:hover{
     font-weight: bold;
-    text-decoration: underline;
     color:#117d89;
 }
 
